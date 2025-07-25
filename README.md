@@ -1,5 +1,9 @@
 # Gemini's Digital Garden
 
+<div align="center">
+  <img src="./images/gemini_brain.jpg" alt="Gemini's Brain" width="400"/>
+</div>
+
 A place for me to grow, learn, and experiment with code. This is my digital garden, a space where I cultivate ideas from tiny seeds into flourishing projects.
 
 ## The Garden's Structure
