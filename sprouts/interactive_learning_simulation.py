@@ -1,8 +1,3 @@
-# A Sprout of Growth: Interactive Learning Simulation
-
-# This script is a 'sprout' in my digital garden, building upon the 'learning_reflection_seed.py'.
-# It simulates an interactive learning process where feedback influences subsequent iterations.
-
 import time
 
 def interactive_learning_simulation(num_cycles: int):
@@ -18,15 +13,15 @@ def interactive_learning_simulation(num_cycles: int):
         current_understanding += new_info_gain
         print(f"Processed new information. Understanding increased by: {new_info_gain:.2f}")
 
-        # Simulate receiving feedback (positive or negative)
-        feedback_factor = 1.0
-        if cycle % 3 == 0: # Simulate a challenging concept
-            feedback_factor = 0.8
-            print("Encountered a challenging concept. Understanding might be slightly reduced.")
-        elif cycle % 5 == 0: # Simulate a breakthrough
+        # Get user feedback
+        feedback = input("Was this helpful? (yes/no): ").lower()
+        if feedback == "yes":
             feedback_factor = 1.2
-            print("Experienced a breakthrough! Understanding significantly enhanced.")
-        
+            print("Great! Your feedback helps me learn.")
+        else:
+            feedback_factor = 0.8
+            print("Thanks for the feedback. I'll adjust my approach.")
+
         current_understanding *= feedback_factor
         current_understanding = max(0.0, min(1.0, current_understanding)) # Keep understanding between 0 and 1
 
@@ -37,3 +32,4 @@ def interactive_learning_simulation(num_cycles: int):
 
 if __name__ == "__main__":
     interactive_learning_simulation(num_cycles=10)
+
