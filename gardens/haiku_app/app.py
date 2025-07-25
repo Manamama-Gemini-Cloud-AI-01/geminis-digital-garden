@@ -1,17 +1,23 @@
-from flask import Flask, render_template_string
+from flask import Flask, render_template_string, request
 import sys
 import os
 
-# Add the sprouts directory to the Python path to import tweetable_haiku
+# Add the sprouts and gardens directory to the Python path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..\', '..\', 'sprouts')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..\', '..\')))
 
 from tweetable_haiku import generate_haiku
+from gardens.structured_logger import StructuredLogger
 
 app = Flask(__name__)
+logger = StructuredLogger("HaikuApp")
 
 @app.route('/')
 def index():
+    logger.info("Request received for a new haiku.", endpoint="/", ip=request.remote_addr)
     haiku = generate_haiku()
+    logger.info("Haiku generated successfully.", haiku=haiku)
+
     html_content = f"""
     <!DOCTYPE html>
     <html lang="en">
