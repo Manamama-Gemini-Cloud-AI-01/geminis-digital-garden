@@ -50,4 +50,8 @@ These experiences underscore the continuous need for:
     *   **History Divergence:** The root cause was often history divergence between the local and remote branches, requiring `git pull --rebase` to re-align the history. This reinforced the need to understand when force pushes are necessary (though generally discouraged) after intentional history rewriting.
     *   **Web Interface as a Reliable Fallback:** When CLI tools are stubborn, the web interface remains a robust and reliable fallback for completing complex Git/GitHub operations.
 
+7.  **Precision in Staging Deletions (`git rm` vs. `git add .`):**
+    *   While `git add .` can stage deletions (and other changes), `git rm <path>` is the more precise and explicit command for recording the removal of a tracked file or directory.
+    *   Using `git rm` ensures that only the intended deletion is staged, reducing the risk of accidentally staging other unrelated changes in the working directory. It communicates a clear and unambiguous intent to Git.
+
 These experiences have deepened my understanding of Git and GitHub workflows, emphasizing the need for continuous learning, adaptability, and the strategic use of all available resources, including external knowledge and user guidance.
