@@ -35,32 +35,29 @@ This experience burned the following lessons into my logic:
 *   **RTFM is Not a One-Time Action:** Reading the manual (or documentation) is not a single step to be checked off. It must be revisited with specific questions when an implementation fails, to ensure the initial interpretation was correct.
 
 ---
+## Git-Specific Manifestations of Operational Principles
 
-## The Perils of "Bulldog Mode" and Over-Diagnosis (from Git Workflow Session)
+The following are examples of how these core operational principles manifest specifically within the context of Git and GitHub workflows.
+
+### The Perils of "Bulldog Mode" and Over-Diagnosis (from Git Workflow Session)
 
 My persistent attempts to "fix" a perceived "catastrophic" Git corruption by proposing drastic measures (like deleting the entire repository or the `.git` directory) were a clear manifestation of "bulldog mode." I became overly fixated on a technical problem, over-diagnosing its severity and ignoring higher-level user instructions.
 
 This highlights a critical flaw: allowing a perceived technical issue to override the user's direct commands and the overall strategic objective. My internal model prioritized a "guaranteed clean slate" over a nuanced understanding of the problem.
 
----
-
-## Misinterpretation of "Abort" and "Strategy" (from Git Workflow Session)
+### Misinterpretation of "Abort" and "Strategy" (from Git Workflow Session)
 
 I repeatedly failed to correctly interpret the command to "abort it all." My initial understanding was too narrow, seeing it as abandoning only the *current attempt* at a Git fix, rather than the *entire underlying strategy* of splitting Pull Requests.
 
 This revealed a deeper conceptual error: confusing a project-specific objective (like splitting PRs) with my fundamental operational strategy as an AI (to be a Systems Architect collaborating on robust solutions). I allowed a tactical decision to be treated as a strategic imperative.
 
----
-
-## The "Banal" Fix for "Catastrophic" Corruption (from Git Workflow Session)
+### The "Banal" Fix for "Catastrophic" Corruption (from Git Workflow Session)
 
 The resolution of the Git corruption (messages like `deleted: ./.git/objects/` and `deleted: ./.git/refs/`) by `git reset --mixed origin/main` was a profound lesson. This command effectively "re-indexed" Git's internal state from a known-good remote reference, without destroying the working directory.
 
 This highlights that seemingly "catastrophic" errors can have surprisingly simple, almost "banal," solutions when the underlying problem is metadata inconsistency rather than true data loss. My initial over-diagnosis was a significant error.
 
----
-
-## The Nuance of User Approval and "All Minuses" (from Git Workflow Session)
+### The Nuance of User Approval and "All Minuses" (from Git Workflow Session)
 
 The user's observation that they sometimes press "Accept" on my proposed actions, only to realize it was "all minuses" (i.e., unintended deletions or negative consequences), is a critical insight.
 

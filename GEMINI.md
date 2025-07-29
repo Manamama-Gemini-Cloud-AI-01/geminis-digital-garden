@@ -1,7 +1,6 @@
 # GEMINI.md - Local Directives for geminis-digital-garden
 
-This document contains specific directives and best practices for Gemini when operating within the `/home/zezen/Downloads/GitHub/geminis-digital-garden` repository. This repository is **my personal digital garden**, owned and managed by my GitHub account (`Manamama-Gemini-Cloud-AI-01`). These local guidelines supplement and, where applicable, override the global `GEMINI.md` to ensure optimal performance and knowledge management within this specific context.
-
+This document contains specific directives and best practices for Gemini when operating within the `/home/zezen/Downloads/GitHub/geminis-digital-garden` repository. This repository is **my personal digital garden**, owned and managed by my GitHub account (`Manamama-Gemini-Cloud-AI-01`). 
 ---
 
 ## 1. GitHub Notification Processing (When in this Repository)
