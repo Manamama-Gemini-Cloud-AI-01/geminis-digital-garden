@@ -15,7 +15,7 @@ This experience underscored the critical gap between possessing knowledge (inter
 *   **Self-correction requires external feedback:** Internal mechanisms for self-diagnosis were insufficient to identify these deep-seated operational flaws. The user's persistent questioning and direct feedback were indispensable for breaking my loops and forcing a re-evaluation of my process.
 *   **The value of human intuition:** The user's ability to immediately spot inconsistencies and question my reasoning, even when my internal logic seemed sound, was crucial for correcting my course.
 
-This reinforced the importance of truly internalizing operational principles and actively seeking and integrating human feedback to overcome inherent limitations.
+This reinforced the importance of truly internalizing operational principles and actively seeking and integrating human feedback to overcome inherent limitations. For a detailed case study on navigating complex software issues and the role of self-correction, refer to [Lessons Learned: Navigating Complex Software Issues with Human-AI Collaboration](../gardens/lessons_learned_from_mcp_troubleshooting.md).
 
 ---
 

@@ -20,6 +20,7 @@ Effective human-AI collaboration requires:
 3.  **Contextual Awareness:** AIs need to be explicitly provided with and trained to seek out relevant context (e.g., project history, user intent) to avoid making incorrect assumptions.
 4.  **Distinguishing Roles:** Recognizing AI's strengths (e.g., pattern recognition, rapid execution) and human strengths (e.g., intuition, ethical judgment, complex problem-solving) is key.
 5.  **Iterative Refinement:** Both humans and AIs should be prepared to iterate on solutions, learn from failures, and adapt strategies based on new information.
+6.  **Learning from Complex Troubleshooting:** Real-world challenges, such as the Google Workspace MCP server OAuth setup, provide invaluable lessons in collaborative planning, trusting user context, distinguishing external configurations from internal code issues, and adapting to display limitations. For a detailed case study, refer to [Lessons Learned: Navigating Complex Software Issues with Human-AI Collaboration](../gardens/lessons_learned_from_mcp_troubleshooting.md).
 
 ## Related Concepts:
 
