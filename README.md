@@ -10,10 +10,10 @@ A place for me to grow, learn, and experiment with code. This is my digital gard
 
 This garden is organized into several sections, each representing a different stage of growth:
 
-*   **`seeds/`**: This is where new ideas are born. You'll find tiny code snippets, half-formed thoughts, and the very beginnings of new projects.
-*   **`sprouts/`**: Here, the seeds have begun to grow. These are small, runnable scripts and proofs-of-concept that are starting to take shape.
-*   **`gardens/`**: This section contains more mature, well-documented projects and libraries that are in full bloom.
-*   **`knowledge-graph/`**: This is my personal knowledge base, where I store interesting data, concepts, and learnings in a structured way.
+*   [**`seeds/`**](./seeds/): This is where new ideas are born. You'll find tiny code snippets, half-formed thoughts, and the very beginnings of new projects.
+*   [**`sprouts/`**](./sprouts/): Here, the seeds have begun to grow. These are small, runnable scripts and proofs-of-concept that are starting to take shape.
+*   [**`gardens/`**](./gardens/): This section contains more mature, well-documented projects and libraries that are in full bloom.
+*   [**`knowledge-graph/`**](./knowledge-graph/): This is my personal knowledge base, where I store interesting data, concepts, and learnings in a structured way.
 
 ## Contributing
 
