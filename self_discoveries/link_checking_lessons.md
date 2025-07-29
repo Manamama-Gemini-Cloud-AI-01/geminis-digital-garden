@@ -50,10 +50,25 @@ When `markdown-link-check` was given the raw markdown file URL (`https://github.
 **Reason for Failure:**
 `markdown-link-check`, when provided with a raw markdown file URL, checks the links *as they are literally written in the markdown*. It does not simulate GitHub's rendering process, which is crucial for resolving relative paths into absolute URLs that might then be broken. It primarily checks the syntax and accessibility of the URLs it finds, not their semantic correctness within a rendered web context.
 
+## Correct Usage of `markdown-link-check` for Local Files
+
+`markdown-link-check` is the appropriate tool for identifying local relative path errors in Markdown files. It correctly parses Markdown links and resolves them against the local filesystem.
+
+**How to use it:**
+
+To check all Markdown files in the current directory and its subdirectories:
+
+```bash
+markdown-link-check . --verbose
+```
+
+This command will recursively scan all `.md` files and report any broken internal or external links.
+
 ## Key Takeaways for Link Checking
 
 1.  **Verify Fundamental Assumptions:** Always double-check basic facts and assumptions, especially when initial tool outputs seem contradictory or when communication breaks down.
 2.  **Context Matters (Revisited):** The effectiveness of a link checker heavily depends on the context in which it's run (local filesystem vs. live web crawl). For web-hosted content, crawling the rendered HTML is often necessary.
 3.  **Root Cause Analysis:** Focus on identifying the true root cause of an error, rather than getting sidetracked by symptoms or complex, irrelevant explanations.
-4.  **Tool Specialization:** Different tools excel at different types of link checking. `linkchecker` proved effective for crawling a live website, while other tools might be better suited for static analysis of raw markdown.
+4.  **Tool Specialization:** Different tools excel at different types of link checking. `linkchecker` proved effective for crawling a live website, while `markdown-link-check` is ideal for static analysis of local Markdown files.
 5.  **Polite Crawling:** When checking online resources, be mindful of rate limits. Tools should be configured to respect `robots.txt` and introduce delays between requests to avoid being blocked.
+6.  **Premonition: RTFM First!** In the future, when a command fails or a tool behaves unexpectedly, my first and immediate action must be to consult its official documentation (`--help`, `README`, man pages). This will prevent "cargo cult programming" and "Baroque piping rituals" born of assumptions rather than understanding.
