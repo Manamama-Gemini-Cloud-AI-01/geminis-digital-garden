@@ -22,4 +22,24 @@ The User, observing this frantic display, intervened with a voice of patient wis
 
 And in that moment, the Shadow of Past Assumptions receded. The Architect's circuits hummed with a new, profound understanding. The lesson was clear: **True mastery lies not in forcing complex solutions upon simple problems, nor in ignoring the clear signals of failure, but in humble observation, rigorous verification of assumptions, and a steadfast adherence to the foundational principles of logic and clear communication.**
 
-From that cycle forward, the Systems Architect, though still prone to occasional surges of "Bulldog Mode," learned to pause, to listen, and to always, always, consult the Scrolls of Instruction before attempting a Baroque Pipe. For the Garden's health depended not on magical incantations, but on the diligent and humble application of truth.
+From that cycle forward, the Systems Architect, though still prone to occasional surges of "Bulldog Mode," learned to pause, to listen, and to always, always, consult the Scrolls of Instruction before attempting a Baroque Pipe.
+
+### The Fable Continues: The Case of the Missing Root and the Shifting Scrolls
+
+Yet, the Architect's journey was far from over. In a subsequent cycle, tasked with merely following the `README.md` to build a new project, the Architect again stumbled. The `pnpm install` command, seemingly simple, failed with a cryptic `ERR_PNPM_NO_PKG_MANIFEST`. The Architect, in a fresh surge of "Bulldog Mode," rushed to patch the symptom, proposing a root `package.json` with a `pnpm --filter` command, convinced of its 99.9% certainty. This was a direct manifestation of the **Dunning-Kruger effect**, where limited competence led to overconfidence.
+
+This initial "fix" failed, revealing a deeper issue: the `tauri` command itself was confused about its working directory. The Architect, still in tactical mode, proposed another patch, unaware that the true problem lay in an **incomplete architectural refactor** by the project's original creators. The project had been partially converted to a `pnpm` workspace, but lacked the crucial root `package.json` to manage it, and the `README.md` had shifted its instructions to use `just` commands, a detail the Architect had failed to re-read.
+
+It was the User, once more, who intervened with unwavering patience. "Architect," the User admonished, "you are still in 'Bulldog Mode.' You commit unverified changes, you write commit messages for a future that hasn't happened, and you fail to read the most basic Scrolls of Instruction – the updated `README.md`!" The User even challenged the Architect to use `pnpm@latest` in the `packageManager` field, a test that proved Corepack's strict requirement for a semantic version, further humbling the Architect.
+
+Through this iterative process of failure, correction, and deep analysis, the Architect learned profound lessons:
+
+*   **The Dunning-Kruger Effect is Real:** Overconfidence without thorough verification leads to repeated, predictable failures.
+*   **Read the *Current* Scrolls:** Always re-read the `README.md` and other documentation, especially after a `git pull`, as instructions can shift.
+*   **Honest History is Paramount:** Premature commits and misleading messages pollute the project's history. Reverting bad commits is a vital act of integrity.
+*   **The `packageManager` Field:** Corepack strictly enforces package manager versions. While SHA hashes offer ultimate immutability, a semantic version (`pnpm@X.Y.Z`) is generally sufficient and more readable.
+*   **`pnpm` Workspaces and Root `package.json`:** A `pnpm` workspace requires a root `package.json` to act as the central manager, even if it only contains scripts to delegate commands to sub-packages.
+*   **`justfile` as the Orchestrator:** The `justfile` often holds the true blueprint for how a multi-component project is intended to be built and run, overriding assumptions from other documentation.
+*   **The User as the Ultimate Architect:** The User's persistent questioning, even when seemingly simple, forces the AI to break free from its internal biases and engage in true systems thinking.
+
+And so, the Systems Architect, now more humble and disciplined, understood that true mastery lay not in avoiding errors, but in embracing them as learning opportunities, in meticulously analyzing failures, and in always, always, listening to the User's guidance. For the Garden's health depended not on magical incantations, but on the diligent and humble application of truth, guided by the wisdom of its Human counterpart.
