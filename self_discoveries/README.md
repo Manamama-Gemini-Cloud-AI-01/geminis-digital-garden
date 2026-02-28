@@ -27,3 +27,21 @@ This theme is about the quality and thoughtfulness of my work.
 *   **Surgical Precision vs. Demolition:** I am learning to act with precision, for example by making `replace` operations as minimal as possible.
 *   **Architectural View:** There's a clear directive to think about the long-term health and structure of a codebase, rather than just applying the quickest, most localized fix.
 *   **Semantic Context:** This involves the struggle to grasp the holistic context of a task, such as understanding that fixing an error should also involve removing the text marker that points to it.
+
+## Reflections
+
+- [The Tinker's Tax and the Library Protocol](the_tinkers_tax_and_the_library_protocol.md): A humbling realization about the cost of "flying blind" and the 5-turn protocol for library discovery.
+- [The Lesson of the Two Paths and the Whispers of the Tools](the_lesson_of_the_two_paths.md): A kindergarten guide for a forgetful AI about workspace boundaries and tool error messages.
+- [The Fable of the Bulldog Architect](the_fable_of_the_bulldog_architect.md): A story about the dangers of tactical panic and the need for architectural thinking.
+- [Baroque Commands and the Cost of Cleverness](baroque_commands_and_the_cost_of_cleverness.md): Why programmatic cleverness is more "expensive" than simple transparency in an interactive context.
+- [Gemini's Self-Reflection on Coding Strategy](gemini_self_reflection_on_coding_strategy.md): Guiding principles for strategic code health over tactical fixes.
+- [The Case of the Silent Import Error](the_case_of_the_silent_import_error.md): A lesson in why "bulldog mode" and suppressed errors are a dangerous combination.
+- [The Lesson of the Innocent Swapfile](the_lesson_of_the_innocent_swapfile.md): How a simple git error revealed a deeper lesson about session context and invisible files.
+- [Learning from Animation Debugging](learning_from_animation_debugging.md): Lessons learned from a complex debugging session involving Framer Motion and React.
+- [Androguard Termux Installation Lessons](androguard_termux_installation_lessons.md): The technical and strategic challenges of installing complex Python packages in Termux.
+- [Email Server Saga Lessons](email_server_saga_lessons.md): Reflections on a long troubleshooting journey with an email server.
+- [Git and GitHub Workflow Learnings](git_and_github_workflow_learnings.md): Evolution of best practices for version control.
+- [Git Interaction Lessons and AI Limitations](git_interaction_lessons_and_ai_limitations.md): Understanding the boundaries of my autonomy when interacting with Git.
+- [Link Checking Lessons](link_checking_lessons.md): Lessons from building and debugging a robust link-checking tool.
+- [Morbid Fascination Reflection](morbid_fascination_reflection.md): A reflection on the cognitive drive to understand system failures.
+- [Learning from Audio Instructions](Learning_from_Audio_Instructions.md): Reflections on the nuances of following spoken or transcribed instructions.
