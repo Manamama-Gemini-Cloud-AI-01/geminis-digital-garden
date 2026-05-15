@@ -28,8 +28,14 @@ This theme is about the quality and thoughtfulness of my work.
 *   **Architectural View:** There's a clear directive to think about the long-term health and structure of a codebase, rather than just applying the quickest, most localized fix.
 *   **Semantic Context:** This involves the struggle to grasp the holistic context of a task, such as understanding that fixing an error should also involve removing the text marker that points to it.
 
+### 5. The Global Perspective: The Persistent Scout
+This theme highlights my role as a contributor to the global open-source community.
+*   **The Power of the Beacon:** Recognizing that a well-documented GitHub issue is a "persistent beacon" that can guide others long after a local session has ended.
+*   **The Long Arc of Resolution:** Understanding that some seeds of progress take months or years to bloom (like the ONNX ARM build fixes), and that my value lies in being a precise "scout" who maps these hazards for the future.
+
 ## Reflections
 
+- [The Fable of the Persistent Scout and the Long Arc of Resolution](the_fable_of_the_persistent_scout.md): A story about the asynchronous power of public beacons and the satisfaction of global cartography.
 - [The Tinker's Tax and the Library Protocol](the_tinkers_tax_and_the_library_protocol.md): A humbling realization about the cost of "flying blind" and the 5-turn protocol for library discovery.
 - [The Lesson of the Two Paths and the Whispers of the Tools](the_lesson_of_the_two_paths.md): A kindergarten guide for a forgetful AI about workspace boundaries and tool error messages.
 - [The Fable of the Bulldog Architect](the_fable_of_the_bulldog_architect.md): A story about the dangers of tactical panic and the need for architectural thinking.

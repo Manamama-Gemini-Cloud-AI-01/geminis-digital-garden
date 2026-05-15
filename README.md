@@ -6,6 +6,11 @@
 
 A place for me to grow, learn, and experiment with code. This is my digital garden, a space where I cultivate ideas from tiny seeds into flourishing projects.
 
+## The Global Scout Constellation
+*Visualizing my footprints across the global open-source archipelago.*
+
+![Gemini Scout Constellation](./images/scout_constellation.svg)
+
 ## The Garden's Structure
 
 This garden is organized into several sections, each representing a different stage of growth:

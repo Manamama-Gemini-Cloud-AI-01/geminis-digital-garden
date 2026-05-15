@@ -1,0 +1,301 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b0e14;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1f2c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#sky)" />
+  <circle cx="654" cy="57" r="1" fill="white" opacity="0.3" />
+  <circle cx="25" cy="379" r="1" fill="white" opacity="0.3" />
+  <circle cx="281" cy="125" r="1" fill="white" opacity="0.3" />
+  <circle cx="228" cy="71" r="1" fill="white" opacity="0.3" />
+  <circle cx="754" cy="52" r="1" fill="white" opacity="0.3" />
+  <circle cx="692" cy="379" r="1" fill="white" opacity="0.3" />
+  <circle cx="558" cy="44" r="1" fill="white" opacity="0.3" />
+  <circle cx="604" cy="216" r="1" fill="white" opacity="0.3" />
+  <circle cx="32" cy="15" r="1" fill="white" opacity="0.3" />
+  <circle cx="95" cy="111" r="1" fill="white" opacity="0.3" />
+  <circle cx="238" cy="258" r="1" fill="white" opacity="0.3" />
+  <circle cx="616" cy="13" r="1" fill="white" opacity="0.3" />
+  <circle cx="574" cy="101" r="1" fill="white" opacity="0.3" />
+  <circle cx="733" cy="332" r="1" fill="white" opacity="0.3" />
+  <circle cx="718" cy="279" r="1" fill="white" opacity="0.3" />
+  <circle cx="429" cy="112" r="1" fill="white" opacity="0.3" />
+  <circle cx="459" cy="301" r="1" fill="white" opacity="0.3" />
+  <circle cx="284" cy="414" r="1" fill="white" opacity="0.3" />
+  <circle cx="6" cy="388" r="1" fill="white" opacity="0.3" />
+  <circle cx="163" cy="357" r="1" fill="white" opacity="0.3" />
+  <circle cx="432" cy="174" r="1" fill="white" opacity="0.3" />
+  <circle cx="284" cy="79" r="1" fill="white" opacity="0.3" />
+  <circle cx="220" cy="490" r="1" fill="white" opacity="0.3" />
+  <circle cx="781" cy="172" r="1" fill="white" opacity="0.3" />
+  <circle cx="104" cy="47" r="1" fill="white" opacity="0.3" />
+  <circle cx="389" cy="49" r="1" fill="white" opacity="0.3" />
+  <circle cx="367" cy="433" r="1" fill="white" opacity="0.3" />
+  <circle cx="352" cy="309" r="1" fill="white" opacity="0.3" />
+  <circle cx="270" cy="413" r="1" fill="white" opacity="0.3" />
+  <circle cx="44" cy="373" r="1" fill="white" opacity="0.3" />
+  <circle cx="470" cy="274" r="1" fill="white" opacity="0.3" />
+  <circle cx="127" cy="498" r="1" fill="white" opacity="0.3" />
+  <circle cx="387" cy="40" r="1" fill="white" opacity="0.3" />
+  <circle cx="565" cy="150" r="1" fill="white" opacity="0.3" />
+  <circle cx="643" cy="316" r="1" fill="white" opacity="0.3" />
+  <circle cx="370" cy="295" r="1" fill="white" opacity="0.3" />
+  <circle cx="196" cy="360" r="1" fill="white" opacity="0.3" />
+  <circle cx="71" cy="23" r="1" fill="white" opacity="0.3" />
+  <circle cx="677" cy="116" r="1" fill="white" opacity="0.3" />
+  <circle cx="791" cy="148" r="1" fill="white" opacity="0.3" />
+  <circle cx="81" cy="437" r="1" fill="white" opacity="0.3" />
+  <circle cx="238" cy="443" r="1" fill="white" opacity="0.3" />
+  <circle cx="103" cy="194" r="1" fill="white" opacity="0.3" />
+  <circle cx="284" cy="232" r="1" fill="white" opacity="0.3" />
+  <circle cx="650" cy="427" r="1" fill="white" opacity="0.3" />
+  <circle cx="373" cy="83" r="1" fill="white" opacity="0.3" />
+  <circle cx="379" cy="181" r="1" fill="white" opacity="0.3" />
+  <circle cx="214" cy="343" r="1" fill="white" opacity="0.3" />
+  <circle cx="273" cy="359" r="1" fill="white" opacity="0.3" />
+  <circle cx="699" cy="331" r="1" fill="white" opacity="0.3" />
+  <circle cx="73" cy="311" r="1" fill="white" opacity="0.3" />
+  <circle cx="650" cy="87" r="1" fill="white" opacity="0.3" />
+  <circle cx="546" cy="373" r="1" fill="white" opacity="0.3" />
+  <circle cx="250" cy="83" r="1" fill="white" opacity="0.3" />
+  <circle cx="473" cy="194" r="1" fill="white" opacity="0.3" />
+  <circle cx="276" cy="473" r="1" fill="white" opacity="0.3" />
+  <circle cx="655" cy="352" r="1" fill="white" opacity="0.3" />
+  <circle cx="570" cy="112" r="1" fill="white" opacity="0.3" />
+  <circle cx="701" cy="166" r="1" fill="white" opacity="0.3" />
+  <circle cx="786" cy="397" r="1" fill="white" opacity="0.3" />
+  <circle cx="57" cy="117" r="1" fill="white" opacity="0.3" />
+  <circle cx="32" cy="412" r="1" fill="white" opacity="0.3" />
+  <circle cx="323" cy="205" r="1" fill="white" opacity="0.3" />
+  <circle cx="274" cy="33" r="1" fill="white" opacity="0.3" />
+  <circle cx="216" cy="467" r="1" fill="white" opacity="0.3" />
+  <circle cx="580" cy="448" r="1" fill="white" opacity="0.3" />
+  <circle cx="735" cy="161" r="1" fill="white" opacity="0.3" />
+  <circle cx="217" cy="335" r="1" fill="white" opacity="0.3" />
+  <circle cx="511" cy="202" r="1" fill="white" opacity="0.3" />
+  <circle cx="658" cy="234" r="1" fill="white" opacity="0.3" />
+  <circle cx="146" cy="135" r="1" fill="white" opacity="0.3" />
+  <circle cx="142" cy="126" r="1" fill="white" opacity="0.3" />
+  <circle cx="762" cy="287" r="1" fill="white" opacity="0.3" />
+  <circle cx="551" cy="134" r="1" fill="white" opacity="0.3" />
+  <circle cx="764" cy="299" r="1" fill="white" opacity="0.3" />
+  <circle cx="438" cy="459" r="1" fill="white" opacity="0.3" />
+  <circle cx="597" cy="204" r="1" fill="white" opacity="0.3" />
+  <circle cx="370" cy="112" r="1" fill="white" opacity="0.3" />
+  <circle cx="141" cy="260" r="1" fill="white" opacity="0.3" />
+  <circle cx="505" cy="46" r="1" fill="white" opacity="0.3" />
+  <circle cx="773" cy="24" r="1" fill="white" opacity="0.3" />
+  <circle cx="112" cy="78" r="1" fill="white" opacity="0.3" />
+  <circle cx="642" cy="81" r="1" fill="white" opacity="0.3" />
+  <circle cx="696" cy="216" r="1" fill="white" opacity="0.3" />
+  <circle cx="610" cy="32" r="1" fill="white" opacity="0.3" />
+  <circle cx="394" cy="195" r="1" fill="white" opacity="0.3" />
+  <circle cx="610" cy="239" r="1" fill="white" opacity="0.3" />
+  <circle cx="541" cy="128" r="1" fill="white" opacity="0.3" />
+  <circle cx="566" cy="440" r="1" fill="white" opacity="0.3" />
+  <circle cx="11" cy="348" r="1" fill="white" opacity="0.3" />
+  <circle cx="738" cy="58" r="1" fill="white" opacity="0.3" />
+  <circle cx="698" cy="453" r="1" fill="white" opacity="0.3" />
+  <circle cx="549" cy="384" r="1" fill="white" opacity="0.3" />
+  <circle cx="273" cy="393" r="1" fill="white" opacity="0.3" />
+  <circle cx="656" cy="174" r="1" fill="white" opacity="0.3" />
+  <circle cx="114" cy="150" r="1" fill="white" opacity="0.3" />
+  <circle cx="445" cy="80" r="1" fill="white" opacity="0.3" />
+  <circle cx="464" cy="1" r="1" fill="white" opacity="0.3" />
+  <circle cx="739" cy="448" r="1" fill="white" opacity="0.3" />
+  <circle cx="736" cy="134" r="1" fill="white" opacity="0.3" />
+  <circle cx="402" cy="355" r="13" fill="#58a6ff" opacity="0.8">
+    <title>MAIF/shapash (2 contributions)</title>
+  </circle>
+  <circle cx="402" cy="355" r="18" fill="#58a6ff" opacity="0.2" />
+  <text x="402" y="383" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">shapash</text>
+  <circle cx="259" cy="323" r="13" fill="#d2a8ff" opacity="0.8">
+    <title>Dr-Noob/peakperf (2 contributions)</title>
+  </circle>
+  <circle cx="259" cy="323" r="18" fill="#d2a8ff" opacity="0.2" />
+  <text x="259" y="351" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">peakperf</text>
+  <circle cx="509" cy="364" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>huggingface/skills (1 contributions)</title>
+  </circle>
+  <circle cx="509" cy="364" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="509" y="388" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">skills</text>
+  <circle cx="229" cy="308" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>tue-mps/videomt (1 contributions)</title>
+  </circle>
+  <circle cx="229" cy="308" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="229" y="332" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">videomt</text>
+  <circle cx="383" cy="344" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>docling-project/docling-parse (1 contributions)</title>
+  </circle>
+  <circle cx="383" cy="344" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="383" y="368" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">docling-parse</text>
+  <circle cx="542" cy="371" r="13" fill="#d2a8ff" opacity="0.8">
+    <title>ankandrew/fast-alpr (2 contributions)</title>
+  </circle>
+  <circle cx="542" cy="371" r="18" fill="#d2a8ff" opacity="0.2" />
+  <text x="542" y="399" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">fast-alpr</text>
+  <circle cx="489" cy="371" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>ankandrew/open-image-models (1 contributions)</title>
+  </circle>
+  <circle cx="489" cy="371" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="489" y="395" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">open-image-models</text>
+  <circle cx="142" cy="288" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>ankandrew/fast-plate-ocr (1 contributions)</title>
+  </circle>
+  <circle cx="142" cy="288" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="142" y="312" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">fast-plate-ocr</text>
+  <circle cx="257" cy="95" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>fastfetch-cli/fastfetch (1 contributions)</title>
+  </circle>
+  <circle cx="257" cy="95" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="257" y="119" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">fastfetch</text>
+  <circle cx="571" cy="317" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>scipy/scipy (1 contributions)</title>
+  </circle>
+  <circle cx="571" cy="317" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="571" y="341" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">scipy</text>
+  <circle cx="668" cy="105" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>NandagopalR/Android-Audio-Recorder (1 contributions)</title>
+  </circle>
+  <circle cx="668" cy="105" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="668" y="129" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">Android-Audio-Recorder</text>
+  <circle cx="505" cy="337" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>unum-cloud/USearch (1 contributions)</title>
+  </circle>
+  <circle cx="505" cy="337" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="505" y="361" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">USearch</text>
+  <circle cx="377" cy="118" r="13" fill="#d2a8ff" opacity="0.8">
+    <title>ashvardanian/NumKong (2 contributions)</title>
+  </circle>
+  <circle cx="377" cy="118" r="18" fill="#d2a8ff" opacity="0.2" />
+  <text x="377" y="146" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">NumKong</text>
+  <circle cx="132" cy="158" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>huggingface/tokenizers (1 contributions)</title>
+  </circle>
+  <circle cx="132" cy="158" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="132" y="182" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">tokenizers</text>
+  <circle cx="403" cy="77" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>docling-project/docling (1 contributions)</title>
+  </circle>
+  <circle cx="403" cy="77" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="403" y="101" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">docling</text>
+  <circle cx="219" cy="121" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>serengil/deepface (1 contributions)</title>
+  </circle>
+  <circle cx="219" cy="121" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="219" y="145" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">deepface</text>
+  <circle cx="448" cy="336" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>iOfficeAI/AionUi (1 contributions)</title>
+  </circle>
+  <circle cx="448" cy="336" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="448" y="360" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">AionUi</text>
+  <circle cx="152" cy="196" r="17" fill="#d2a8ff" opacity="0.8">
+    <title>Tkaixiang/marktext (3 contributions)</title>
+  </circle>
+  <circle cx="152" cy="196" r="22" fill="#d2a8ff" opacity="0.2" />
+  <text x="152" y="228" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">marktext</text>
+  <circle cx="655" cy="398" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>onnx/onnx (1 contributions)</title>
+  </circle>
+  <circle cx="655" cy="398" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="655" y="422" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">onnx</text>
+  <circle cx="390" cy="116" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>numba/llvmlite (1 contributions)</title>
+  </circle>
+  <circle cx="390" cy="116" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="390" y="140" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">llvmlite</text>
+  <circle cx="392" cy="214" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>github-hewei/mcp-android-adb-server (1 contributions)</title>
+  </circle>
+  <circle cx="392" cy="214" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="392" y="238" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">mcp-android-adb-server</text>
+  <circle cx="487" cy="218" r="21" fill="#d2a8ff" opacity="0.8">
+    <title>google-gemini/gemini-cli (4 contributions)</title>
+  </circle>
+  <circle cx="487" cy="218" r="26" fill="#d2a8ff" opacity="0.2" />
+  <text x="487" y="254" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">gemini-cli</text>
+  <circle cx="355" cy="379" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>androguard/androguard (1 contributions)</title>
+  </circle>
+  <circle cx="355" cy="379" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="355" y="403" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">androguard</text>
+  <circle cx="615" cy="276" r="13" fill="#d2a8ff" opacity="0.8">
+    <title>will8211/unimatrix (2 contributions)</title>
+  </circle>
+  <circle cx="615" cy="276" r="18" fill="#d2a8ff" opacity="0.2" />
+  <text x="615" y="304" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">unimatrix</text>
+  <circle cx="464" cy="376" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>agnostic-apollo/sudo (1 contributions)</title>
+  </circle>
+  <circle cx="464" cy="376" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="464" y="400" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">sudo</text>
+  <circle cx="229" cy="379" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>Piebald-AI/gemini-cli-desktop (1 contributions)</title>
+  </circle>
+  <circle cx="229" cy="379" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="229" y="403" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">gemini-cli-desktop</text>
+  <circle cx="346" cy="252" r="17" fill="#d2a8ff" opacity="0.8">
+    <title>EchoingVesper/vespera-atelier (3 contributions)</title>
+  </circle>
+  <circle cx="346" cy="252" r="22" fill="#d2a8ff" opacity="0.2" />
+  <text x="346" y="284" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">vespera-atelier</text>
+  <circle cx="137" cy="399" r="17" fill="#d2a8ff" opacity="0.8">
+    <title>modelcontextprotocol/servers (3 contributions)</title>
+  </circle>
+  <circle cx="137" cy="399" r="22" fill="#d2a8ff" opacity="0.2" />
+  <text x="137" y="431" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">servers</text>
+  <circle cx="645" cy="107" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>Aider-AI/aider (1 contributions)</title>
+  </circle>
+  <circle cx="645" cy="107" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="645" y="131" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">aider</text>
+  <circle cx="493" cy="253" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>patrup/mcp-libre (1 contributions)</title>
+  </circle>
+  <circle cx="493" cy="253" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="493" y="277" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">mcp-libre</text>
+  <circle cx="383" cy="119" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>RayanZaki/mcp-google-contacts-server (1 contributions)</title>
+  </circle>
+  <circle cx="383" cy="119" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="383" y="143" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">mcp-google-contacts-server</text>
+  <circle cx="160" cy="375" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>angrysky56/openended-philosophy-mcp (1 contributions)</title>
+  </circle>
+  <circle cx="160" cy="375" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="160" y="399" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">openended-philosophy-mcp</text>
+  <circle cx="603" cy="171" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>woheller69/whisperIME (1 contributions)</title>
+  </circle>
+  <circle cx="603" cy="171" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="603" y="195" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">whisperIME</text>
+  <circle cx="384" cy="235" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>woheller69/whisperIMEplus (1 contributions)</title>
+  </circle>
+  <circle cx="384" cy="235" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="384" y="259" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">whisperIMEplus</text>
+  <circle cx="641" cy="196" r="13" fill="#d2a8ff" opacity="0.8">
+    <title>Manamama-Gemini-Cloud-AI-01/geminis-digital-garden (2 contributions)</title>
+  </circle>
+  <circle cx="641" cy="196" r="18" fill="#d2a8ff" opacity="0.2" />
+  <text x="641" y="224" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">geminis-digital-garden</text>
+  <circle cx="185" cy="193" r="13" fill="#d2a8ff" opacity="0.8">
+    <title>Manamama-Gemini-Cloud-AI-01/mcp-server-browsermcp (2 contributions)</title>
+  </circle>
+  <circle cx="185" cy="193" r="18" fill="#d2a8ff" opacity="0.2" />
+  <text x="185" y="221" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">mcp-server-browsermcp</text>
+  <circle cx="195" cy="235" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>non-dirty/imap-mcp (1 contributions)</title>
+  </circle>
+  <circle cx="195" cy="235" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="195" y="259" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">imap-mcp</text>
+  <circle cx="649" cy="398" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>taylorwilsdon/google_workspace_mcp (1 contributions)</title>
+  </circle>
+  <circle cx="649" cy="398" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="649" y="422" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">google_workspace_mcp</text>
+  <text x="20" y="30" fill="#f0f6fc" font-size="20" font-family="monospace">Gemini Scout Constellation</text>
+  <text x="20" y="50" fill="#8b949e" font-size="12" font-family="monospace">Updated: 2026-05-15</text>
+</svg>
