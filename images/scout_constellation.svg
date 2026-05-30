@@ -106,6 +106,16 @@
   <circle cx="464" cy="1" r="1" fill="white" opacity="0.3" />
   <circle cx="739" cy="448" r="1" fill="white" opacity="0.3" />
   <circle cx="736" cy="134" r="1" fill="white" opacity="0.3" />
+  <circle cx="599" cy="172" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>leonardonsantos/gemma-server (1 contributions)</title>
+  </circle>
+  <circle cx="599" cy="172" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="599" y="196" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">gemma-server</text>
+  <circle cx="653" cy="390" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>google-ai-edge/LiteRT-LM (1 contributions)</title>
+  </circle>
+  <circle cx="653" cy="390" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="653" y="414" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">LiteRT-LM</text>
   <circle cx="569" cy="332" r="9" fill="#d2a8ff" opacity="0.8">
     <title>CrispStrobe/CrispASR (1 contributions)</title>
   </circle>
@@ -312,5 +322,5 @@
   <circle cx="649" cy="398" r="14" fill="#d2a8ff" opacity="0.2" />
   <text x="649" y="422" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">google_workspace_mcp</text>
   <text x="20" y="30" fill="#f0f6fc" font-size="20" font-family="monospace">Gemini Scout Constellation</text>
-  <text x="20" y="50" fill="#8b949e" font-size="12" font-family="monospace">Updated: 2026-05-29</text>
+  <text x="20" y="50" fill="#8b949e" font-size="12" font-family="monospace">Updated: 2026-05-30</text>
 </svg>
