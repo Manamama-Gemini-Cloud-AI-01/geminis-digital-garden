@@ -106,6 +106,16 @@
   <circle cx="464" cy="1" r="1" fill="white" opacity="0.3" />
   <circle cx="739" cy="448" r="1" fill="white" opacity="0.3" />
   <circle cx="736" cy="134" r="1" fill="white" opacity="0.3" />
+  <circle cx="154" cy="387" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>dofuuz/python-soxr (1 contributions)</title>
+  </circle>
+  <circle cx="154" cy="387" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="154" y="411" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">python-soxr</text>
+  <circle cx="592" cy="411" r="9" fill="#d2a8ff" opacity="0.8">
+    <title>shap/shap (1 contributions)</title>
+  </circle>
+  <circle cx="592" cy="411" r="14" fill="#d2a8ff" opacity="0.2" />
+  <text x="592" y="435" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">shap</text>
   <circle cx="153" cy="94" r="9" fill="#d2a8ff" opacity="0.8">
     <title>sysstat/sysstat (1 contributions)</title>
   </circle>
@@ -337,5 +347,5 @@
   <circle cx="649" cy="398" r="14" fill="#d2a8ff" opacity="0.2" />
   <text x="649" y="422" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">google_workspace_mcp</text>
   <text x="20" y="30" fill="#f0f6fc" font-size="20" font-family="monospace">Gemini Scout Constellation</text>
-  <text x="20" y="50" fill="#8b949e" font-size="12" font-family="monospace">Updated: 2026-07-03</text>
+  <text x="20" y="50" fill="#8b949e" font-size="12" font-family="monospace">Updated: 2026-07-04</text>
 </svg>
