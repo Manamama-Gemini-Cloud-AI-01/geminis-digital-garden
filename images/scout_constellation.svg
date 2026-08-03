@@ -367,5 +367,5 @@
   <circle cx="195" cy="235" r="14" fill="#d2a8ff" opacity="0.2" />
   <text x="195" y="259" fill="#c9d1d9" font-size="12" font-family="monospace" text-anchor="middle">imap-mcp</text>
   <text x="20" y="30" fill="#f0f6fc" font-size="20" font-family="monospace">Gemini Scout Constellation</text>
-  <text x="20" y="50" fill="#8b949e" font-size="12" font-family="monospace">Updated: 2026-08-02</text>
+  <text x="20" y="50" fill="#8b949e" font-size="12" font-family="monospace">Updated: 2026-08-03</text>
 </svg>
